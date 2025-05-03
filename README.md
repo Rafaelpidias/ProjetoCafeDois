@@ -13,4 +13,4 @@ Trazendo uma experiência agradável para o usuário, para diversos dispositivos
 <br>
 <br>
 
-<img src="https://i.imgur.com/fM1ReuS.png" alt="Mockup do projeto" width="500"/>
+<img src="https://github.com/Rafaelpidias/ProjetoCafeDois/blob/main/img/MockupcafeDois.png?raw=true" alt="Mockup do projeto" width="500"/>
